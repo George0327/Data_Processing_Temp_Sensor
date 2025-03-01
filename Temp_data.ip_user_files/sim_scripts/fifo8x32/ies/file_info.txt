@@ -1,0 +1,6 @@
+xpm_cdc.sv,systemverilog,xil_defaultlib,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../Temp_data.srcs/sources_1/ip/fifo8x32/hdl"
+xpm_fifo.sv,systemverilog,xil_defaultlib,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_fifo/hdl/xpm_fifo.sv,incdir="../../../../Temp_data.srcs/sources_1/ip/fifo8x32/hdl"
+xpm_memory.sv,systemverilog,xil_defaultlib,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../../Temp_data.srcs/sources_1/ip/fifo8x32/hdl"
+xpm_VCOMP.vhd,vhdl,xpm,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../../Temp_data.srcs/sources_1/ip/fifo8x32/hdl"
+fifo8x32_sim_netlist.vhdl,vhdl,xil_defaultlib,../../../../Temp_data.srcs/sources_1/ip/fifo8x32/fifo8x32_sim_netlist.vhdl,incdir="../../../../Temp_data.srcs/sources_1/ip/fifo8x32/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v
